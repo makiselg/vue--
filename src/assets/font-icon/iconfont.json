@@ -1,0 +1,51 @@
+{
+  "id": "1513179",
+  "name": "vue项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109753",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "109766",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "109797",
+      "name": "unfold",
+      "font_class": "unfold",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1403434",
+      "name": "三星",
+      "font_class": "sanxing",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "1795840",
+      "name": "50店铺",
+      "font_class": "dianpu",
+      "unicode": "e90e",
+      "unicode_decimal": 59662
+    },
+    {
+      "icon_id": "1795841",
+      "name": "50店铺-线性",
+      "font_class": "dianpu-xianxing",
+      "unicode": "e90f",
+      "unicode_decimal": 59663
+    }
+  ]
+}
